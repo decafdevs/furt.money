@@ -26,7 +26,7 @@ export default {
 
 <style>
 body {
-  background-color: #286D4D;
+  background-color: #286d4d;
   height: 100vh;
 }
 #__nuxt {

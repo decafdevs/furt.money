@@ -8,8 +8,18 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'furt.money - Furt away your money problems with artful expense management' },
-      { hid: 'og:description', name: 'og:description', content: 'furt.money - Furt away your money problems with artful expense management' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'furt.money - Furt away your money problems with artful expense management',
+      },
+      {
+        hid: 'og:description',
+        name: 'og:description',
+        content:
+          'furt.money - Furt away your money problems with artful expense management',
+      },
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],

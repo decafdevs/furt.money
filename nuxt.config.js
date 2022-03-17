@@ -21,6 +21,7 @@ export default {
           'furt.money - Furt away your money problems with artful expense management',
       },
       { name: 'format-detection', content: 'telephone=no' },
+      { hid: 'og:image', name: 'og:image', content: 'https://furt.money/icon.png' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
